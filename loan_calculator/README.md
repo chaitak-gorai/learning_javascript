@@ -6,4 +6,4 @@
  ---
  
  
- [link]:chaitak-gorai.github.io/learning_javascript/loan_calculator/
+ [link]:https://chaitak-gorai.github.io/learning_javascript/loan_calculator/
