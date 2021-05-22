@@ -6,4 +6,4 @@ Try the project [click here][link]
 
 ---
 
-[link]: https://chaitak-gorai.github.io/learning_javascript/jokes/
+[link]: https://chaitak-gorai.github.io/learning_javascript/jokes_generator/
